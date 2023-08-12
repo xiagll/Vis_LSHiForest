@@ -10,6 +10,5 @@ from .bagging import Bagging
 from .lsh import E2LSH
 from .klsh import KernelLSH
 from .lsh import AngleLSH
-from .inne import INNE
 from .l2h_forest import L2HashForest
 from .l2h_family import SimpleL2HashFamily, KMeansHashFamily
